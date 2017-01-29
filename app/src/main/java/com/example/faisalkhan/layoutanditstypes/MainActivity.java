@@ -48,12 +48,12 @@ public class MainActivity extends AppCompatActivity {
 
                     case 1: //TextView
                         //start intent to reach activity where you can see how to use RelativeLayout
-                        startActivity(new Intent(MainActivity.this,MainActivity.class));
+                        startActivity(new Intent(MainActivity.this,RelativeLayoutActivity.class));
                         break;
 
                     case 2: //Button
                         //start intent to reach activity where you can see how to use FrameLayout
-                        startActivity(new Intent(MainActivity.this,MainActivity.class));
+                        startActivity(new Intent(MainActivity.this,FrameLayoutActivity.class));
                         break;
                 }
             }
