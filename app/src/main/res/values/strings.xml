@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Layout and its types</string>
+    <string name="layouts_and_its_types">Layouts and its types</string>
+    <string name="linear_layout">Linear Layout</string>
+</resources>
