@@ -20,6 +20,22 @@ For more details follow doc
 --------------
 https://docs.google.com/document/d/1Eq6c9CZ_P1QcQkroio5jbgZGALnAtuSnG559jr3gtac/edit?usp=sharing
 
+References
+--------------
+https://developer.android.com/reference/android/widget/LinearLayout.html
+https://developer.android.com/guide/topics/ui/layout/linear.html
+https://www.tutorialspoint.com/android/android_linear_layout.html
+https://developer.android.com/guide/topics/ui/layout/relative.html
+https://developer.android.com/reference/android/widget/RelativeLayout.html
+https://www.tutorialspoint.com/android/android_relative_layout.htm
+https://developer.android.com/reference/android/widget/FrameLayout.html
+https://www.tutorialspoint.com/android/android_frame_layout.htm
+https://developer.android.com/studio/write/layout-editor.html
+https://developer.android.com/reference/android/support/constraint/ConstraintLayout.html
+https://www.youtube.com/watch?v=XamMbnzI5vE
+https://www.youtube.com/watch?v=z53Ed0ddxgM
+https://codelabs.developers.google.com/codelabs/constraint-layout/index.html?index=..%2F..%2Findex#0
+
 
 
 Screenshots
